@@ -1,2 +1,20 @@
-# electron-vue
-electron+vue3构建桌面应用的壳子
+# scientific-computer
+科学计算器，集成各种计算公式
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
